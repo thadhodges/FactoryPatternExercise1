@@ -6,18 +6,31 @@ using System.Threading.Tasks;
 
 namespace FactoryPatternExercise1
 {
-    static class VehicleFactory
+    public class VehicleFactory
     {
-        static int wheels = "numWheels";
-        static void GetVehicle()
+        
+        
+        public IVehicle GetVehicle(int numTires)
         {
-            Console.WriteLine("How many wheels does your vehicle have?");
+            
+            
 
-        
-        
-        
-        
-        
+            switch ( numTires )
+            {
+                case 2:
+                    return new Motorcycle();
+                
+                case 4:
+                    return new Car();
+                
+
+                default:
+                    return new NoVehicle();
+                    
+            }
+
+
+
         }
 
 

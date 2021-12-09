@@ -6,16 +6,11 @@ using System.Threading.Tasks;
 
 namespace FactoryPatternExercise1
 {
-    public class Car : IVehicle
+    internal class NoVehicle : IVehicle
     {
-        public Car()
-        {
-
-        }
-
         public void Drive()
         {
-            Console.WriteLine("You are driving a Car!");
+            Console.WriteLine("Sorry, your answer did not compute...");
         }
     }
 }

@@ -2,10 +2,10 @@
 
 
 
-Console.WriteLine("How Many tires does your vehicle have?");
-int numTires = Int16.Parse(Console.ReadLine());
+Console.WriteLine("How many Tires does your Vehicle have???");
+int userTires = int.Parse(Console.ReadLine());
 
 
 
 
-
+IVehicle tires = VehicleFactory.GetVehicle();
