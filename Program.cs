@@ -2,7 +2,10 @@
 
 
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("How Many tires does your vehicle have?");
+int numTires = Int16.Parse(Console.ReadLine());
+
+
 
 
 
