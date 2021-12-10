@@ -1,11 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using FactoryPatternExercise1;
+
+var myNewVehicle = VehicleFactory.GetVehicle();
 
 
 
-Console.WriteLine("How many Tires does your Vehicle have???");
-int userTires = int.Parse(Console.ReadLine());
 
 
 
-
-IVehicle tires = VehicleFactory.GetVehicle();
+//IVehicle tires = VehicleFactory.GetVehicle();

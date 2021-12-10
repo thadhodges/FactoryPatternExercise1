@@ -10,9 +10,9 @@ namespace FactoryPatternExercise1
     {
         public Motorcycle()
         {
-
+            Console.WriteLine("You are riding on Motorcyle.");
         }
-        public void Drive()
+        public void GetVehicle()
         {
             Console.WriteLine("You are riding on Motorcyle.");
         }

@@ -9,7 +9,7 @@ namespace FactoryPatternExercise1
     public interface IVehicle
     {
 
-        public void Drive();
+        public void GetVehicle();
 
 
 

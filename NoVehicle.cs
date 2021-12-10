@@ -8,7 +8,11 @@ namespace FactoryPatternExercise1
 {
     internal class NoVehicle : IVehicle
     {
-        public void Drive()
+        public void GetVehicle()
+        {
+            Console.WriteLine("Sorry, your answer did not compute...");
+        }
+        public NoVehicle()
         {
             Console.WriteLine("Sorry, your answer did not compute...");
         }

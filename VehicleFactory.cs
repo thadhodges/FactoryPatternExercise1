@@ -10,10 +10,11 @@ namespace FactoryPatternExercise1
     {
         
         
-        public IVehicle GetVehicle(int numTires)
+        public static IVehicle GetVehicle()
         {
-            
-            
+
+            Console.WriteLine("How many tires are on your Vehicle?");
+            int numTires = int.Parse(Console.ReadLine());
 
             switch ( numTires )
             {

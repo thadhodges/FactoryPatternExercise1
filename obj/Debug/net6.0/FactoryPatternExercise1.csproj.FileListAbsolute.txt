@@ -1,0 +1,15 @@
+C:\WORK\REPO\FactoryPatternExercise1\bin\Debug\net6.0\FactoryPatternExercise1.exe
+C:\WORK\REPO\FactoryPatternExercise1\bin\Debug\net6.0\FactoryPatternExercise1.deps.json
+C:\WORK\REPO\FactoryPatternExercise1\bin\Debug\net6.0\FactoryPatternExercise1.runtimeconfig.json
+C:\WORK\REPO\FactoryPatternExercise1\bin\Debug\net6.0\FactoryPatternExercise1.dll
+C:\WORK\REPO\FactoryPatternExercise1\bin\Debug\net6.0\ref\FactoryPatternExercise1.dll
+C:\WORK\REPO\FactoryPatternExercise1\bin\Debug\net6.0\FactoryPatternExercise1.pdb
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.csproj.AssemblyReference.cache
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.AssemblyInfoInputs.cache
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.AssemblyInfo.cs
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.dll
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\ref\FactoryPatternExercise1.dll
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.pdb
+C:\WORK\REPO\FactoryPatternExercise1\obj\Debug\net6.0\FactoryPatternExercise1.genruntimeconfig.cache
